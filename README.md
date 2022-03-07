@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am ✨ _Priyanka Gnanasekaran_ ✨Currently pursuing 🔭 my Masters in Software Development at MET Boston University. I completed Bachelor of Engineering - Computer Science and worked as a full stack developer in CAT India.
+I am ✨ _Priyanka Gnanasekaran_ ✨my passion towards software development influenced me to pursue Masters in Software Development 🔭 at MET Boston University. I hold a Bachelors in Computer Science Engineering and worked as a Software Programmer in CATERPILLAR India.
 
-Previously, I've developed web applications such as Machine Trackers and Time Tracker in C#, ASP.Net, SQL and Javascript.
+I developed full stack web applications such as Machine Trackers and Daily Log in C#, ASP .NET, SQL and JavaScript. Over the years I have acquired particular set of skills.
 
 ### Skills: 🌱 
 
