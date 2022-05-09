@@ -13,7 +13,7 @@ _Database_:
 MongoDB, SQL
 
 _Frameworks_: 
-Vue.js, ASP.Net
+Angular JS, Vue.js, ASP.Net
 
 _Debugging and Logging Tools_: 
 JUnit, Log4j
