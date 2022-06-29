@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am ✨ _Priya Gnanasekaran_ ✨My passion towards Software development have motivated me to pursue my career goals in Software field. 
+I am ✨ _Priya Gnanasekaran_ ✨
 
-As a Front End developer, I love to explore 🔭, learn 🌱 and implement 👯 new ✨ _innovative_ ✨ skills/ideas in every project I work on.
+My passion towards Software development have motivated me to pursue my career goals in Software field. 
+
+As a Developer, I love to explore 🔭, learn 🌱 and implement 👯 new ✨ _innovative_ ✨ skills/ideas in every project I work on.
   
 
 <!--
